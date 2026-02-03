@@ -61,5 +61,5 @@ install(TARGETS ${MODULE_NAME}
 
 write_config(${PLUGIN_NAME})
 
-#Adding some comments in the end to commit this file again 
+#Adding some comments <??conflict>to commit this file again 
 
